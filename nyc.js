@@ -9,3 +9,4 @@
 for (var key in nyc){
     console.log(nyc[key]);
 }
+
