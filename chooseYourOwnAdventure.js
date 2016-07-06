@@ -28,3 +28,4 @@ if (!dead && exit){
 else if( dead || !exit){
     console.log("You lose")
 }
+

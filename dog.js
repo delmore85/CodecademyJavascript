@@ -13,3 +13,4 @@ buddy.bark();
 var snoopy = new Dog("Beagle");
 /// this time it works!
 snoopy.bark();
+

@@ -16,3 +16,4 @@ for(var x in myStudentReport) {
 }
 
 console.log("Your overall GPA is " + myStudentReport.getGPA());
+
